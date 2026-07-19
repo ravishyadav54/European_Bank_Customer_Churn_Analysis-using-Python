@@ -46,7 +46,7 @@ The dataset contains information about **10,000 bank customers**, including:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google colab
 
 ---
 
